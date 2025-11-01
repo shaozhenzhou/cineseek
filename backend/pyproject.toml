@@ -18,7 +18,8 @@ dependencies = [
   "pydantic-settings>=2.4",
   "guessit>=3.8",
   "rich>=13.7",
-  "python-dotenv>=1.0"
+  "python-dotenv>=1.0",
+  "opencc-python-reimplemented>=0.1.7"
 ]
 
 [project.scripts]
