@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.dist-info/
+.venv/
+venv/
+
+# uv / hatch / build
+.pytest_cache/
+.coverage*
+build/
+dist/
+
+# Node / Vite
+node_modules/
+dist/
+*.log
+.vite/
+
+# IDE
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
